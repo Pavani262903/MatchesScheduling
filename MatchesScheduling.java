@@ -132,7 +132,7 @@ class group
         return this.name.equals(((group)obj).name);
     }
 }
-output:
+//output//
 5
 enter the teams:
 IND
